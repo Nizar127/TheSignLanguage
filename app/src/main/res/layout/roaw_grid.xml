@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:layout_marginTop="10dp"
+    android:orientation="vertical"
+    android:padding="5dp"
+    android:background="@drawable/grid_color_selector"
+    android:clickable="false"
+    android:gravity="center_horizontal"
+    android:focusable="false">
+
+    <ImageView
+        android:id="@+id/imageFront"
+        android:layout_width="100dp"
+        android:layout_height="100dp"
+        android:src="@drawable/logo"
+        android:contentDescription="@string/todo">
+    </ImageView>
+
+    <TextView
+        android:id="@+id/textFront"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="5dp"
+        android:gravity="center"
+        android:text="Data Here"
+        android:textColor="@color/cardview_dark_background"
+        android:textSize="15sp" >
+    </TextView>
+</LinearLayout>
