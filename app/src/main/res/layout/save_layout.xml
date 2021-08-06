@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:paddingLeft="20dp"
+    android:paddingRight="20dp"
+    >
+
+
+    <LinearLayout
+        android:id="@+id/textAtas"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        >
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Name"
+            android:textSize="30sp"
+            android:textColor="@color/black"
+            android:fontFamily="@font/allerta"/>
+        <EditText
+            android:id="@+id/nameEdit"
+            android:layout_width="match_parent"
+            android:layout_height="50dp"
+            android:textColor="@color/black"
+            android:layout_marginTop="20sp"
+            android:background="@android:drawable/dialog_holo_light_frame"
+            />
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:layout_marginTop="20dp"
+        >
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Word"
+            android:textSize="30sp"
+            android:textColor="@color/black"
+            android:fontFamily="@font/allerta"/>
+        <EditText
+            android:id="@+id/wordEditSave"
+            android:layout_width="match_parent"
+            android:layout_height="150dp"
+            android:layout_marginTop="10dp"
+            android:textColor="@color/black"
+            android:background="@android:drawable/dialog_holo_light_frame"/>
+    </LinearLayout>
+
+
+</LinearLayout>

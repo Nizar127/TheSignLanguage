@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".OnboardingActivity">
+
+    <androidx.viewpager.widget.ViewPager
+        android:id="@+id/viewPagerOnBoarding"
+        android:layout_width="match_parent"
+        android:layout_height="400dp"/>
+
+    <com.google.android.material.tabs.TabLayout
+        android:id="@+id/tabLayoutIndicator"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/viewPagerOnBoarding"
+        android:layout_margin="56dp"
+        app:tabGravity="center"
+        app:tabIndicatorHeight="0dp"
+        app:tabBackground="@drawable/tab_selector" />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/tabLayoutIndicator"
+        android:gravity="center_horizontal"
+        android:orientation="horizontal">
+
+        <Button
+            android:id="@+id/appStart"
+            android:layout_width="200dp"
+            android:layout_height="wrap_content"
+            android:text="Go To App"
+            android:layout_gravity="center_horizontal"
+            android:textColor="@color/white"
+            android:backgroundTint="@color/purple_500"/>
+
+    </LinearLayout>
+</RelativeLayout>
