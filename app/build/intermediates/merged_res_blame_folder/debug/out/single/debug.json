@@ -1,0 +1,866 @@
+[
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\WeTalkLatest\\app\\build\\intermediates\\res\\merged\\debug\\drawable_logo.jpeg.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\WeTalkLatest\\app\\src\\main\\res\\drawable\\logo.jpeg"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\WeTalkLatest\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_bookmart.png.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\WeTalkLatest\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_bookmart.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\WeTalkLatest\\app\\build\\intermediates\\res\\merged\\debug\\drawable_tab_selector.xml.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\WeTalkLatest\\app\\src\\main\\res\\drawable\\tab_selector.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\WeTalkLatest\\app\\build\\intermediates\\res\\merged\\debug\\drawable_cakap.png.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\WeTalkLatest\\app\\src\\main\\res\\drawable\\cakap.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\WeTalkLatest\\app\\build\\intermediates\\res\\merged\\debug\\drawable_frame_035.jpeg.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\WeTalkLatest\\app\\src\\main\\res\\drawable\\frame_035.jpeg"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\WeTalkLatest\\app\\build\\intermediates\\res\\merged\\debug\\drawable_frame_045.jpeg.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\WeTalkLatest\\app\\src\\main\\res\\drawable\\frame_045.jpeg"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\WeTalkLatest\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_baseline_edit.png.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\WeTalkLatest\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_baseline_edit.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\WeTalkLatest\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_close.xml.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\WeTalkLatest\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_close.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\WeTalkLatest\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\WeTalkLatest\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\WeTalkLatest\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_search.png.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\WeTalkLatest\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_search.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\WeTalkLatest\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_the_main.xml.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\WeTalkLatest\\app\\src\\main\\res\\layout\\activity_the_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\WeTalkLatest\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\WeTalkLatest\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\WeTalkLatest\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_back_btn.png.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\WeTalkLatest\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\back_btn.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\WeTalkLatest\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_book.png.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\WeTalkLatest\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_book.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\WeTalkLatest\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_startup.xml.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\WeTalkLatest\\app\\src\\main\\res\\layout\\activity_startup.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\WeTalkLatest\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_arrow_back.xml.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\WeTalkLatest\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_arrow_back.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\WeTalkLatest\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_home.png.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\WeTalkLatest\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_home.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\WeTalkLatest\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_bookmart.png.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\WeTalkLatest\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_bookmart.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\WeTalkLatest\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_back.png.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\WeTalkLatest\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_back.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\WeTalkLatest\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\WeTalkLatest\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\WeTalkLatest\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_alphabet.xml.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\WeTalkLatest\\app\\src\\main\\res\\layout\\activity_alphabet.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\WeTalkLatest\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\WeTalkLatest\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\WeTalkLatest\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_launcher_background.png.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\WeTalkLatest\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\WeTalkLatest\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_baseline_delete.png.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\WeTalkLatest\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_baseline_delete.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\WeTalkLatest\\app\\build\\intermediates\\res\\merged\\debug\\drawable_baby.png.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\WeTalkLatest\\app\\src\\main\\res\\drawable\\baby.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\WeTalkLatest\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_bookmart.png.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\WeTalkLatest\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_bookmart.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\WeTalkLatest\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_close.png.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\WeTalkLatest\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_close.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\WeTalkLatest\\app\\build\\intermediates\\res\\merged\\debug\\drawable_love.gif.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\WeTalkLatest\\app\\src\\main\\res\\drawable\\love.gif"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\WeTalkLatest\\app\\build\\intermediates\\res\\merged\\debug\\drawable_frame_005.jpeg.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\WeTalkLatest\\app\\src\\main\\res\\drawable\\frame_005.jpeg"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\WeTalkLatest\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_launcher_background.png.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\WeTalkLatest\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\WeTalkLatest\\app\\build\\intermediates\\res\\merged\\debug\\drawable_frame_049.png.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\WeTalkLatest\\app\\src\\main\\res\\drawable\\frame_049.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\WeTalkLatest\\app\\build\\intermediates\\res\\merged\\debug\\drawable_frame_015.jpeg.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\WeTalkLatest\\app\\src\\main\\res\\drawable\\frame_015.jpeg"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\WeTalkLatest\\app\\build\\intermediates\\res\\merged\\debug\\drawable_frame_025.jpeg.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\WeTalkLatest\\app\\src\\main\\res\\drawable\\frame_025.jpeg"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\WeTalkLatest\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_save.png.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\WeTalkLatest\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_save.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\WeTalkLatest\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_mic.png.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\WeTalkLatest\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_mic.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\WeTalkLatest\\app\\build\\intermediates\\res\\merged\\debug\\font_audiowide.xml.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\WeTalkLatest\\app\\src\\main\\res\\font\\audiowide.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\WeTalkLatest\\app\\build\\intermediates\\res\\merged\\debug\\layout_edit_layout.xml.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\WeTalkLatest\\app\\src\\main\\res\\layout\\edit_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\WeTalkLatest\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_search.png.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\WeTalkLatest\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_search.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\WeTalkLatest\\app\\build\\intermediates\\res\\merged\\debug\\drawable_frame_016.jpeg.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\WeTalkLatest\\app\\src\\main\\res\\drawable\\frame_016.jpeg"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\WeTalkLatest\\app\\build\\intermediates\\res\\merged\\debug\\drawable_frame_006.jpeg.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\WeTalkLatest\\app\\src\\main\\res\\drawable\\frame_006.jpeg"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\WeTalkLatest\\app\\build\\intermediates\\res\\merged\\debug\\drawable_frame_026.jpeg.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\WeTalkLatest\\app\\src\\main\\res\\drawable\\frame_026.jpeg"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\WeTalkLatest\\app\\build\\intermediates\\res\\merged\\debug\\drawable_frame_048.png.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\WeTalkLatest\\app\\src\\main\\res\\drawable\\frame_048.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\WeTalkLatest\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_search.png.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\WeTalkLatest\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_search.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\WeTalkLatest\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_bookmart.png.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\WeTalkLatest\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_bookmart.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\WeTalkLatest\\app\\build\\intermediates\\res\\merged\\debug\\drawable_frame_046.jpeg.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\WeTalkLatest\\app\\src\\main\\res\\drawable\\frame_046.jpeg"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\WeTalkLatest\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_mic.png.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\WeTalkLatest\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_mic.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\WeTalkLatest\\app\\build\\intermediates\\res\\merged\\debug\\drawable_frame_036.jpeg.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\WeTalkLatest\\app\\src\\main\\res\\drawable\\frame_036.jpeg"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\WeTalkLatest\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_baseline_edit.png.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\WeTalkLatest\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_baseline_edit.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\WeTalkLatest\\app\\build\\intermediates\\res\\merged\\debug\\drawable_homepage.png.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\WeTalkLatest\\app\\src\\main\\res\\drawable\\homepage.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\WeTalkLatest\\app\\build\\intermediates\\res\\merged\\debug\\drawable_link.png.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\WeTalkLatest\\app\\src\\main\\res\\drawable\\link.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\WeTalkLatest\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_save.xml.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\WeTalkLatest\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_save.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\WeTalkLatest\\app\\build\\intermediates\\res\\merged\\debug\\drawable_saveword.png.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\WeTalkLatest\\app\\src\\main\\res\\drawable\\saveword.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\WeTalkLatest\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_baseline_delete.xml.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\WeTalkLatest\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_baseline_delete.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\WeTalkLatest\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_baseline_mic_24.png.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\WeTalkLatest\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_baseline_mic_24.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\WeTalkLatest\\app\\build\\intermediates\\res\\merged\\debug\\drawable_grid_color_selector.xml.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\WeTalkLatest\\app\\src\\main\\res\\drawable\\grid_color_selector.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\WeTalkLatest\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_book.png.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\WeTalkLatest\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_book.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\WeTalkLatest\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_save.png.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\WeTalkLatest\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_save.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\WeTalkLatest\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_back_btn.png.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\WeTalkLatest\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\back_btn.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\WeTalkLatest\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_search.png.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\WeTalkLatest\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_search.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\WeTalkLatest\\app\\build\\intermediates\\res\\merged\\debug\\drawable_rain.gif.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\WeTalkLatest\\app\\src\\main\\res\\drawable\\rain.gif"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\WeTalkLatest\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_mic.png.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\WeTalkLatest\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_mic.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\WeTalkLatest\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_book.png.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\WeTalkLatest\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_book.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\WeTalkLatest\\app\\build\\intermediates\\res\\merged\\debug\\drawable_frame_007.jpeg.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\WeTalkLatest\\app\\src\\main\\res\\drawable\\frame_007.jpeg"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\WeTalkLatest\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_save.png.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\WeTalkLatest\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_save.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\WeTalkLatest\\app\\build\\intermediates\\res\\merged\\debug\\layout_onboarding_layout_ui.xml.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\WeTalkLatest\\app\\src\\main\\res\\layout\\onboarding_layout_ui.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\WeTalkLatest\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_logo.jpeg.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\WeTalkLatest\\app\\src\\main\\res\\mipmap-mdpi\\logo.jpeg"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\WeTalkLatest\\app\\build\\intermediates\\res\\merged\\debug\\drawable_frame_034.jpeg.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\WeTalkLatest\\app\\src\\main\\res\\drawable\\frame_034.jpeg"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\WeTalkLatest\\app\\build\\intermediates\\res\\merged\\debug\\drawable_frame_043.jpeg.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\WeTalkLatest\\app\\src\\main\\res\\drawable\\frame_043.jpeg"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\WeTalkLatest\\app\\build\\intermediates\\res\\merged\\debug\\drawable_frame_014.jpeg.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\WeTalkLatest\\app\\src\\main\\res\\drawable\\frame_014.jpeg"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\WeTalkLatest\\app\\build\\intermediates\\res\\merged\\debug\\layout_save_layout.xml.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\WeTalkLatest\\app\\src\\main\\res\\layout\\save_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\WeTalkLatest\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_logo.jpeg.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\WeTalkLatest\\app\\src\\main\\res\\mipmap-hdpi\\logo.jpeg"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\WeTalkLatest\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_close.png.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\WeTalkLatest\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_close.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\WeTalkLatest\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_search.xml.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\WeTalkLatest\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_search.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\WeTalkLatest\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_book.xml.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\WeTalkLatest\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_book.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\WeTalkLatest\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_arrow_back.png.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\WeTalkLatest\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_arrow_back.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\WeTalkLatest\\app\\build\\intermediates\\res\\merged\\debug\\drawable_frame_052.png.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\WeTalkLatest\\app\\src\\main\\res\\drawable\\frame_052.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\WeTalkLatest\\app\\build\\intermediates\\res\\merged\\debug\\drawable_food.png.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\WeTalkLatest\\app\\src\\main\\res\\drawable\\food.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\WeTalkLatest\\app\\build\\intermediates\\res\\merged\\debug\\layout_voice_fragment_layout.xml.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\WeTalkLatest\\app\\src\\main\\res\\layout\\voice_fragment_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\WeTalkLatest\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_mic.xml.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\WeTalkLatest\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_mic.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\WeTalkLatest\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_back_btn.png.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\WeTalkLatest\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\back_btn.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\WeTalkLatest\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\WeTalkLatest\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\WeTalkLatest\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\WeTalkLatest\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\WeTalkLatest\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\WeTalkLatest\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\WeTalkLatest\\app\\build\\intermediates\\res\\merged\\debug\\drawable_drink.gif.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\WeTalkLatest\\app\\src\\main\\res\\drawable\\drink.gif"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\WeTalkLatest\\app\\build\\intermediates\\res\\merged\\debug\\drawable_frame_003.jpeg.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\WeTalkLatest\\app\\src\\main\\res\\drawable\\frame_003.jpeg"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\WeTalkLatest\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_book.png.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\WeTalkLatest\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_book.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\WeTalkLatest\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_logo.jpeg.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\WeTalkLatest\\app\\src\\main\\res\\mipmap-xhdpi\\logo.jpeg"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\WeTalkLatest\\app\\build\\intermediates\\res\\merged\\debug\\drawable_frame_051.png.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\WeTalkLatest\\app\\src\\main\\res\\drawable\\frame_051.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\WeTalkLatest\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_launcher_background.png.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\WeTalkLatest\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\WeTalkLatest\\app\\build\\intermediates\\res\\merged\\debug\\drawable_frame_023.jpeg.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\WeTalkLatest\\app\\src\\main\\res\\drawable\\frame_023.jpeg"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\WeTalkLatest\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_baseline_mic_24.png.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\WeTalkLatest\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_baseline_mic_24.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\WeTalkLatest\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_first.xml.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\WeTalkLatest\\app\\src\\main\\res\\layout\\activity_first.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\WeTalkLatest\\app\\build\\intermediates\\res\\merged\\debug\\drawable_frame_030.jpeg.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\WeTalkLatest\\app\\src\\main\\res\\drawable\\frame_030.jpeg"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\WeTalkLatest\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_splash_screen.xml.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\WeTalkLatest\\app\\src\\main\\res\\layout\\activity_splash_screen.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\WeTalkLatest\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_close.png.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\WeTalkLatest\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_close.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\WeTalkLatest\\app\\build\\intermediates\\res\\merged\\debug\\drawable_frame_010.jpeg.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\WeTalkLatest\\app\\src\\main\\res\\drawable\\frame_010.jpeg"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\WeTalkLatest\\app\\build\\intermediates\\res\\merged\\debug\\anim_bottom_animation.xml.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\WeTalkLatest\\app\\src\\main\\res\\anim\\bottom_animation.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\WeTalkLatest\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_baseline_delete.png.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\WeTalkLatest\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_baseline_delete.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\WeTalkLatest\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_back_btn.png.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\WeTalkLatest\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\back_btn.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\WeTalkLatest\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\WeTalkLatest\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\WeTalkLatest\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_mic.png.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\WeTalkLatest\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_mic.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\WeTalkLatest\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_arrow_back.png.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\WeTalkLatest\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_arrow_back.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\WeTalkLatest\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_back.png.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\WeTalkLatest\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_back.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\WeTalkLatest\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\WeTalkLatest\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\WeTalkLatest\\app\\build\\intermediates\\res\\merged\\debug\\drawable_frame_041.jpeg.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\WeTalkLatest\\app\\src\\main\\res\\drawable\\frame_041.jpeg"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\WeTalkLatest\\app\\build\\intermediates\\res\\merged\\debug\\drawable_frame_001.jpeg.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\WeTalkLatest\\app\\src\\main\\res\\drawable\\frame_001.jpeg"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\WeTalkLatest\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_number.xml.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\WeTalkLatest\\app\\src\\main\\res\\layout\\activity_number.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\WeTalkLatest\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\WeTalkLatest\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\WeTalkLatest\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_back_btn.xml.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\WeTalkLatest\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\back_btn.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\WeTalkLatest\\app\\build\\intermediates\\res\\merged\\debug\\drawable_frame_021.jpeg.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\WeTalkLatest\\app\\src\\main\\res\\drawable\\frame_021.jpeg"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\WeTalkLatest\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_baseline_mic_24.png.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\WeTalkLatest\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_baseline_mic_24.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\WeTalkLatest\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_save_page.xml.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\WeTalkLatest\\app\\src\\main\\res\\layout\\activity_save_page.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\WeTalkLatest\\app\\build\\intermediates\\res\\merged\\debug\\drawable_frame_050.png.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\WeTalkLatest\\app\\src\\main\\res\\drawable\\frame_050.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\WeTalkLatest\\app\\build\\intermediates\\res\\merged\\debug\\layout_vieawadapter_ui.xml.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\WeTalkLatest\\app\\src\\main\\res\\layout\\vieawadapter_ui.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\WeTalkLatest\\app\\build\\intermediates\\res\\merged\\debug\\drawable_frame_032.jpeg.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\WeTalkLatest\\app\\src\\main\\res\\drawable\\frame_032.jpeg"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\WeTalkLatest\\app\\build\\intermediates\\res\\merged\\debug\\drawable_frame_012.jpeg.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\WeTalkLatest\\app\\src\\main\\res\\drawable\\frame_012.jpeg"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\WeTalkLatest\\app\\build\\intermediates\\res\\merged\\debug\\drawable_thirsty.png.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\WeTalkLatest\\app\\src\\main\\res\\drawable\\thirsty.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\WeTalkLatest\\app\\build\\intermediates\\res\\merged\\debug\\drawable_frame_042.jpeg.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\WeTalkLatest\\app\\src\\main\\res\\drawable\\frame_042.jpeg"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\WeTalkLatest\\app\\build\\intermediates\\res\\merged\\debug\\drawable_frame_002.jpeg.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\WeTalkLatest\\app\\src\\main\\res\\drawable\\frame_002.jpeg"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\WeTalkLatest\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\WeTalkLatest\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\WeTalkLatest\\app\\build\\intermediates\\res\\merged\\debug\\font_allerta.xml.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\WeTalkLatest\\app\\src\\main\\res\\font\\allerta.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\WeTalkLatest\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_home.png.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\WeTalkLatest\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_home.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\WeTalkLatest\\app\\build\\intermediates\\res\\merged\\debug\\drawable_borderforlayout.xml.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\WeTalkLatest\\app\\src\\main\\res\\drawable\\borderforlayout.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\WeTalkLatest\\app\\build\\intermediates\\res\\merged\\debug\\drawable_selected_dot.xml.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\WeTalkLatest\\app\\src\\main\\res\\drawable\\selected_dot.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\WeTalkLatest\\app\\build\\intermediates\\res\\merged\\debug\\drawable_frame_022.jpeg.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\WeTalkLatest\\app\\src\\main\\res\\drawable\\frame_022.jpeg"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\WeTalkLatest\\app\\build\\intermediates\\res\\merged\\debug\\drawable_dictionary.png.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\WeTalkLatest\\app\\src\\main\\res\\drawable\\dictionary.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\WeTalkLatest\\app\\build\\intermediates\\res\\merged\\debug\\drawable_frame_008.jpeg.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\WeTalkLatest\\app\\src\\main\\res\\drawable\\frame_008.jpeg"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\WeTalkLatest\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_back.png.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\WeTalkLatest\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_back.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\WeTalkLatest\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_book.png.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\WeTalkLatest\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_book.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\WeTalkLatest\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_baseline_mic_24.png.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\WeTalkLatest\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_baseline_mic_24.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\WeTalkLatest\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_onboarding.xml.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\WeTalkLatest\\app\\src\\main\\res\\layout\\activity_onboarding.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\WeTalkLatest\\app\\build\\intermediates\\res\\merged\\debug\\drawable_voice.png.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\WeTalkLatest\\app\\src\\main\\res\\drawable\\voice.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\WeTalkLatest\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_mic.png.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\WeTalkLatest\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_mic.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\WeTalkLatest\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_baseline_mic_24.xml.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\WeTalkLatest\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_baseline_mic_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\WeTalkLatest\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_search.png.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\WeTalkLatest\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_search.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\WeTalkLatest\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_save.png.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\WeTalkLatest\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_save.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\WeTalkLatest\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_search.png.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\WeTalkLatest\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_search.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\WeTalkLatest\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\WeTalkLatest\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\WeTalkLatest\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_baseline_mic_24.png.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\WeTalkLatest\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_baseline_mic_24.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\WeTalkLatest\\app\\build\\intermediates\\res\\merged\\debug\\drawable_asl.jpg.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\WeTalkLatest\\app\\src\\main\\res\\drawable\\asl.jpg"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\WeTalkLatest\\app\\build\\intermediates\\res\\merged\\debug\\layout_library_fragment_layout.xml.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\WeTalkLatest\\app\\src\\main\\res\\layout\\library_fragment_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\WeTalkLatest\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_bookmart.png.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\WeTalkLatest\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_bookmart.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\WeTalkLatest\\app\\build\\intermediates\\res\\merged\\debug\\drawable_frame_029.jpeg.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\WeTalkLatest\\app\\src\\main\\res\\drawable\\frame_029.jpeg"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\WeTalkLatest\\app\\build\\intermediates\\res\\merged\\debug\\drawable_frame_009.jpeg.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\WeTalkLatest\\app\\src\\main\\res\\drawable\\frame_009.jpeg"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\WeTalkLatest\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_bookmart.png.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\WeTalkLatest\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_bookmart.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\WeTalkLatest\\app\\build\\intermediates\\res\\merged\\debug\\drawable_frame_039.jpeg.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\WeTalkLatest\\app\\src\\main\\res\\drawable\\frame_039.jpeg"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\WeTalkLatest\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_back_btn.png.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\WeTalkLatest\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\back_btn.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\WeTalkLatest\\app\\build\\intermediates\\res\\merged\\debug\\layout_roaw_grid.xml.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\WeTalkLatest\\app\\src\\main\\res\\layout\\roaw_grid.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\WeTalkLatest\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_baseline_mic_24.png.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\WeTalkLatest\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_baseline_mic_24.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\WeTalkLatest\\app\\build\\intermediates\\res\\merged\\debug\\drawable_frame_037.jpeg.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\WeTalkLatest\\app\\src\\main\\res\\drawable\\frame_037.jpeg"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\WeTalkLatest\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_baseline_edit.png.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\WeTalkLatest\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_baseline_edit.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\WeTalkLatest\\app\\build\\intermediates\\res\\merged\\debug\\drawable_frame_027.jpeg.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\WeTalkLatest\\app\\src\\main\\res\\drawable\\frame_027.jpeg"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\WeTalkLatest\\app\\build\\intermediates\\res\\merged\\debug\\drawable_cigarette.png.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\WeTalkLatest\\app\\src\\main\\res\\drawable\\cigarette.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\WeTalkLatest\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_feature_page.xml.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\WeTalkLatest\\app\\src\\main\\res\\layout\\activity_feature_page.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\WeTalkLatest\\app\\build\\intermediates\\res\\merged\\debug\\anim_top_animation.xml.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\WeTalkLatest\\app\\src\\main\\res\\anim\\top_animation.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\WeTalkLatest\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_baseline_delete.png.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\WeTalkLatest\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_baseline_delete.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\WeTalkLatest\\app\\build\\intermediates\\res\\merged\\debug\\drawable_default_dot.xml.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\WeTalkLatest\\app\\src\\main\\res\\drawable\\default_dot.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\WeTalkLatest\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_dashboard.xml.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\WeTalkLatest\\app\\src\\main\\res\\layout\\activity_dashboard.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\WeTalkLatest\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_logo.jpeg.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\WeTalkLatest\\app\\src\\main\\res\\mipmap-xxhdpi\\logo.jpeg"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\WeTalkLatest\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_bookmart.xml.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\WeTalkLatest\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_bookmart.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\WeTalkLatest\\app\\build\\intermediates\\res\\merged\\debug\\drawable_frame_018.jpeg.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\WeTalkLatest\\app\\src\\main\\res\\drawable\\frame_018.jpeg"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\WeTalkLatest\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_logo.jpeg.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\WeTalkLatest\\app\\src\\main\\res\\mipmap-xxxhdpi\\logo.jpeg"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\WeTalkLatest\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_close.png.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\WeTalkLatest\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_close.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\WeTalkLatest\\app\\build\\intermediates\\res\\merged\\debug\\drawable_frame_028.jpeg.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\WeTalkLatest\\app\\src\\main\\res\\drawable\\frame_028.jpeg"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\WeTalkLatest\\app\\build\\intermediates\\res\\merged\\debug\\drawable_frame_038.jpeg.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\WeTalkLatest\\app\\src\\main\\res\\drawable\\frame_038.jpeg"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\WeTalkLatest\\app\\build\\intermediates\\res\\merged\\debug\\drawable_frame_019.jpeg.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\WeTalkLatest\\app\\src\\main\\res\\drawable\\frame_019.jpeg"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\WeTalkLatest\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_back.png.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\WeTalkLatest\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_back.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\WeTalkLatest\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\WeTalkLatest\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\WeTalkLatest\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_launcher_background.png.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\WeTalkLatest\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\WeTalkLatest\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_baseline_edit.xml.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\WeTalkLatest\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_baseline_edit.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\WeTalkLatest\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_back.png.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\WeTalkLatest\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_back.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\WeTalkLatest\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_arrow_back.png.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\WeTalkLatest\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_arrow_back.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\WeTalkLatest\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\WeTalkLatest\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\WeTalkLatest\\app\\build\\intermediates\\res\\merged\\debug\\drawable_frame_017.jpeg.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\WeTalkLatest\\app\\src\\main\\res\\drawable\\frame_017.jpeg"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\WeTalkLatest\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_arrow_back.png.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\WeTalkLatest\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_arrow_back.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\WeTalkLatest\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_close.png.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\WeTalkLatest\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_close.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\WeTalkLatest\\app\\build\\intermediates\\res\\merged\\debug\\drawable_frame_004.jpeg.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\WeTalkLatest\\app\\src\\main\\res\\drawable\\frame_004.jpeg"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\WeTalkLatest\\app\\build\\intermediates\\res\\merged\\debug\\drawable_hello.gif.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\WeTalkLatest\\app\\src\\main\\res\\drawable\\hello.gif"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\WeTalkLatest\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_arrow_back.png.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\WeTalkLatest\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_arrow_back.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\WeTalkLatest\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\WeTalkLatest\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\WeTalkLatest\\app\\build\\intermediates\\res\\merged\\debug\\drawable_frame_024.jpeg.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\WeTalkLatest\\app\\src\\main\\res\\drawable\\frame_024.jpeg"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\WeTalkLatest\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_home.xml.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\WeTalkLatest\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_home.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\WeTalkLatest\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_home.png.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\WeTalkLatest\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_home.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\WeTalkLatest\\app\\build\\intermediates\\res\\merged\\debug\\drawable_child.png.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\WeTalkLatest\\app\\src\\main\\res\\drawable\\child.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\WeTalkLatest\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_back.xml.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\WeTalkLatest\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_back.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\WeTalkLatest\\app\\build\\intermediates\\res\\merged\\debug\\drawable_frame_044.jpeg.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\WeTalkLatest\\app\\src\\main\\res\\drawable\\frame_044.jpeg"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\WeTalkLatest\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_launcher_background.png.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\WeTalkLatest\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\WeTalkLatest\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_save.png.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\WeTalkLatest\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_save.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\WeTalkLatest\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_baseline_edit.png.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\WeTalkLatest\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_baseline_edit.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\WeTalkLatest\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_back.png.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\WeTalkLatest\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_back.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\WeTalkLatest\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_baseline_delete.png.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\WeTalkLatest\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_baseline_delete.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\WeTalkLatest\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_arrow_back.png.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\WeTalkLatest\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_arrow_back.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\WeTalkLatest\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_home.png.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\WeTalkLatest\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_home.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\WeTalkLatest\\app\\build\\intermediates\\res\\merged\\debug\\drawable_frame_013.jpeg.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\WeTalkLatest\\app\\src\\main\\res\\drawable\\frame_013.jpeg"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\WeTalkLatest\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_baseline_edit.png.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\WeTalkLatest\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_baseline_edit.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\WeTalkLatest\\app\\build\\intermediates\\res\\merged\\debug\\drawable_frame_033.jpeg.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\WeTalkLatest\\app\\src\\main\\res\\drawable\\frame_033.jpeg"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\WeTalkLatest\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_back_btn.png.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\WeTalkLatest\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\back_btn.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\WeTalkLatest\\app\\build\\intermediates\\res\\merged\\debug\\drawable_frame_040.jpeg.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\WeTalkLatest\\app\\src\\main\\res\\drawable\\frame_040.jpeg"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\WeTalkLatest\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_baseline_delete.png.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\WeTalkLatest\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_baseline_delete.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\WeTalkLatest\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_close.png.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\WeTalkLatest\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_close.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\WeTalkLatest\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_save.png.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\WeTalkLatest\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_save.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\WeTalkLatest\\app\\build\\intermediates\\res\\merged\\debug\\layout_saveword_fragment_layout.xml.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\WeTalkLatest\\app\\src\\main\\res\\layout\\saveword_fragment_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\WeTalkLatest\\app\\build\\intermediates\\res\\merged\\debug\\drawable_frame_047.png.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\WeTalkLatest\\app\\src\\main\\res\\drawable\\frame_047.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\WeTalkLatest\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_baseline_edit.png.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\WeTalkLatest\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_baseline_edit.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\WeTalkLatest\\app\\build\\intermediates\\res\\merged\\debug\\layout_homepage_fragment_layout.xml.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\WeTalkLatest\\app\\src\\main\\res\\layout\\homepage_fragment_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\WeTalkLatest\\app\\build\\intermediates\\res\\merged\\debug\\drawable_frame_020.jpeg.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\WeTalkLatest\\app\\src\\main\\res\\drawable\\frame_020.jpeg"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\WeTalkLatest\\app\\build\\intermediates\\res\\merged\\debug\\drawable_frame_031.jpeg.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\WeTalkLatest\\app\\src\\main\\res\\drawable\\frame_031.jpeg"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\WeTalkLatest\\app\\build\\intermediates\\res\\merged\\debug\\drawable_forget.gif.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\WeTalkLatest\\app\\src\\main\\res\\drawable\\forget.gif"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\WeTalkLatest\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_launcher_background.png.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\WeTalkLatest\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\WeTalkLatest\\app\\build\\intermediates\\res\\merged\\debug\\drawable_frame_011.jpeg.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\WeTalkLatest\\app\\src\\main\\res\\drawable\\frame_011.jpeg"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\WeTalkLatest\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_home.png.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\WeTalkLatest\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_home.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\WeTalkLatest\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_baseline_delete.png.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\WeTalkLatest\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_baseline_delete.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\WeTalkLatest\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_book.png.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\WeTalkLatest\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_book.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\WeTalkLatest\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_home.png.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\WeTalkLatest\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_home.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\WeTalkLatest\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_mic.png.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\WeTalkLatest\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_mic.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\WeTalkLatest\\app\\build\\intermediates\\res\\merged\\debug\\font_bangers.xml.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\WeTalkLatest\\app\\src\\main\\res\\font\\bangers.xml"
+    }
+]

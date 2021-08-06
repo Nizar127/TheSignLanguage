@@ -1,0 +1,76 @@
+com/balqis/wetalklatest/SplashScreenActivity.java
+ com.balqis.wetalklatest.SplashScreenActivity
+ com.balqis.wetalklatest.SplashScreenActivity$1
+com/balqis/wetalklatest/MainActivity.java
+ com.balqis.wetalklatest.MainActivity
+ com.balqis.wetalklatest.MainActivity$1
+com/balqis/wetalklatest/NumberActivity.java
+ com.balqis.wetalklatest.NumberActivity
+ com.balqis.wetalklatest.NumberActivity$1
+ com.balqis.wetalklatest.NumberActivity$2
+com/balqis/wetalklatest/ImageItem.java
+ com.balqis.wetalklatest.ImageItem
+com/balqis/wetalklatest/AlphabetActivity.java
+ com.balqis.wetalklatest.AlphabetActivity
+ com.balqis.wetalklatest.AlphabetActivity$1
+ com.balqis.wetalklatest.AlphabetActivity$2
+com/balqis/wetalklatest/FirstActivity.java
+ com.balqis.wetalklatest.FirstActivity
+com/balqis/wetalklatest/SavePageAdapter.java
+ com.balqis.wetalklatest.SavePageAdapter
+ com.balqis.wetalklatest.SavePageAdapter$1
+ com.balqis.wetalklatest.SavePageAdapter$2
+ com.balqis.wetalklatest.SavePageAdapter$3
+ com.balqis.wetalklatest.SavePageAdapter$PageViewHolder
+com/balqis/wetalklatest/library_fragment.java
+ com.balqis.wetalklatest.library_fragment
+com/balqis/wetalklatest/voice_fragment.java
+ com.balqis.wetalklatest.voice_fragment
+com/balqis/wetalklatest/GridViewAdapter.java
+ com.balqis.wetalklatest.GridViewAdapter
+com/balqis/wetalklatest/onboardingAdapter.java
+ com.balqis.wetalklatest.onboardingAdapter
+ com.balqis.wetalklatest.onboardingAdapter$OnBoardingViewHolder
+com/balqis/wetalklatest/OnBoardingItem.java
+ com.balqis.wetalklatest.OnBoardingItem
+com/balqis/wetalklatest/saveword_fragment.java
+ com.balqis.wetalklatest.saveword_fragment
+com/balqis/wetalklatest/DashboardActivity.java
+ com.balqis.wetalklatest.DashboardActivity
+ com.balqis.wetalklatest.DashboardActivity$1
+com/balqis/wetalklatest/OnboardingActivity.java
+ com.balqis.wetalklatest.OnboardingActivity
+ com.balqis.wetalklatest.OnboardingActivity$1
+ com.balqis.wetalklatest.OnboardingActivity$ViewPagerAdapter
+com/balqis/wetalklatest/BuildConfig.java
+ com.balqis.wetalklatest.BuildConfig
+com/balqis/wetalklatest/TheMainActivity.java
+ com.balqis.wetalklatest.TheMainActivity
+ com.balqis.wetalklatest.TheMainActivity$1
+ com.balqis.wetalklatest.TheMainActivity$2
+ com.balqis.wetalklatest.TheMainActivity$3
+ com.balqis.wetalklatest.TheMainActivity$4
+ com.balqis.wetalklatest.TheMainActivity$5
+ com.balqis.wetalklatest.TheMainActivity$6
+ com.balqis.wetalklatest.TheMainActivity$7
+ com.balqis.wetalklatest.TheMainActivity$8
+ com.balqis.wetalklatest.TheMainActivity$9
+com/balqis/wetalklatest/DBHelper.java
+ com.balqis.wetalklatest.DBHelper
+com/balqis/wetalklatest/wordData.java
+ com.balqis.wetalklatest.wordData
+com/balqis/wetalklatest/homepage_fragment.java
+ com.balqis.wetalklatest.homepage_fragment
+com/balqis/wetalklatest/Save_Page.java
+ com.balqis.wetalklatest.Save_Page
+ com.balqis.wetalklatest.Save_Page$1
+com/balqis/wetalklatest/StartupActivity.java
+ com.balqis.wetalklatest.StartupActivity
+ com.balqis.wetalklatest.StartupActivity$1
+ com.balqis.wetalklatest.StartupActivity$2
+ com.balqis.wetalklatest.StartupActivity$3
+ com.balqis.wetalklatest.StartupActivity$4
+com/balqis/wetalklatest/FeaturePageActivity.java
+ com.balqis.wetalklatest.FeaturePageActivity
+ com.balqis.wetalklatest.FeaturePageActivity$1
+ com.balqis.wetalklatest.FeaturePageActivity$2

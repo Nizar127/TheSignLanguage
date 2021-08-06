@@ -1,0 +1,4 @@
+#Sat Aug 07 03:09:39 SGT 2021
+base.0=C\:\\Users\\User\\AndroidStudioProjects\\WeTalkLatest\\app\\build\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
