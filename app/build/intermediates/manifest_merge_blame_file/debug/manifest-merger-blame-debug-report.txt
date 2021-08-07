@@ -33,79 +33,80 @@
 20-->C:\Users\User\AndroidStudioProjects\WeTalkLatest\app\src\main\AndroidManifest.xml:16:9-41
 21        android:supportsRtl="true"
 21-->C:\Users\User\AndroidStudioProjects\WeTalkLatest\app\src\main\AndroidManifest.xml:17:9-35
-22        android:theme="@style/Theme.WeTalkLatest" >
-22-->C:\Users\User\AndroidStudioProjects\WeTalkLatest\app\src\main\AndroidManifest.xml:18:9-50
-23        <activity android:name="com.balqis.wetalklatest.OnboardingActivity" />
-23-->C:\Users\User\AndroidStudioProjects\WeTalkLatest\app\src\main\AndroidManifest.xml:19:9-65
-23-->C:\Users\User\AndroidStudioProjects\WeTalkLatest\app\src\main\AndroidManifest.xml:19:19-53
-24        <activity android:name="com.balqis.wetalklatest.TheMainActivity" />
-24-->C:\Users\User\AndroidStudioProjects\WeTalkLatest\app\src\main\AndroidManifest.xml:20:9-53
-24-->C:\Users\User\AndroidStudioProjects\WeTalkLatest\app\src\main\AndroidManifest.xml:20:19-50
-25        <activity android:name="com.balqis.wetalklatest.FeaturePageActivity" />
-25-->C:\Users\User\AndroidStudioProjects\WeTalkLatest\app\src\main\AndroidManifest.xml:21:9-57
-25-->C:\Users\User\AndroidStudioProjects\WeTalkLatest\app\src\main\AndroidManifest.xml:21:19-54
-26        <activity android:name="com.balqis.wetalklatest.NumberActivity" />
-26-->C:\Users\User\AndroidStudioProjects\WeTalkLatest\app\src\main\AndroidManifest.xml:22:9-52
-26-->C:\Users\User\AndroidStudioProjects\WeTalkLatest\app\src\main\AndroidManifest.xml:22:19-49
-27        <activity android:name="com.balqis.wetalklatest.AlphabetActivity" />
-27-->C:\Users\User\AndroidStudioProjects\WeTalkLatest\app\src\main\AndroidManifest.xml:23:9-54
-27-->C:\Users\User\AndroidStudioProjects\WeTalkLatest\app\src\main\AndroidManifest.xml:23:19-51
-28        <activity android:name="com.balqis.wetalklatest.Save_Page" />
-28-->C:\Users\User\AndroidStudioProjects\WeTalkLatest\app\src\main\AndroidManifest.xml:24:9-47
-28-->C:\Users\User\AndroidStudioProjects\WeTalkLatest\app\src\main\AndroidManifest.xml:24:19-44
-29        <activity android:name="com.balqis.wetalklatest.SplashScreenActivity" >
-29-->C:\Users\User\AndroidStudioProjects\WeTalkLatest\app\src\main\AndroidManifest.xml:25:9-31:20
-29-->C:\Users\User\AndroidStudioProjects\WeTalkLatest\app\src\main\AndroidManifest.xml:25:19-55
-30            <intent-filter>
-30-->C:\Users\User\AndroidStudioProjects\WeTalkLatest\app\src\main\AndroidManifest.xml:26:13-30:29
-31                <action android:name="android.intent.action.MAIN" />
-31-->C:\Users\User\AndroidStudioProjects\WeTalkLatest\app\src\main\AndroidManifest.xml:27:17-69
-31-->C:\Users\User\AndroidStudioProjects\WeTalkLatest\app\src\main\AndroidManifest.xml:27:25-66
-32
-33                <category android:name="android.intent.category.LAUNCHER" />
-33-->C:\Users\User\AndroidStudioProjects\WeTalkLatest\app\src\main\AndroidManifest.xml:29:17-77
-33-->C:\Users\User\AndroidStudioProjects\WeTalkLatest\app\src\main\AndroidManifest.xml:29:27-74
-34            </intent-filter>
-35        </activity>
-36        <activity android:name="com.balqis.wetalklatest.FirstActivity" />
-36-->C:\Users\User\AndroidStudioProjects\WeTalkLatest\app\src\main\AndroidManifest.xml:32:9-51
-36-->C:\Users\User\AndroidStudioProjects\WeTalkLatest\app\src\main\AndroidManifest.xml:32:19-48
-37        <activity android:name="com.balqis.wetalklatest.StartupActivity" />
-37-->C:\Users\User\AndroidStudioProjects\WeTalkLatest\app\src\main\AndroidManifest.xml:33:9-53
-37-->C:\Users\User\AndroidStudioProjects\WeTalkLatest\app\src\main\AndroidManifest.xml:33:19-50
-38        <activity android:name="com.balqis.wetalklatest.DashboardActivity" />
-38-->C:\Users\User\AndroidStudioProjects\WeTalkLatest\app\src\main\AndroidManifest.xml:34:9-55
-38-->C:\Users\User\AndroidStudioProjects\WeTalkLatest\app\src\main\AndroidManifest.xml:34:19-52
-39        <activity android:name="com.balqis.wetalklatest.MainActivity" >
-39-->C:\Users\User\AndroidStudioProjects\WeTalkLatest\app\src\main\AndroidManifest.xml:35:9-41:20
-39-->C:\Users\User\AndroidStudioProjects\WeTalkLatest\app\src\main\AndroidManifest.xml:35:19-47
-40            <intent-filter>
-40-->C:\Users\User\AndroidStudioProjects\WeTalkLatest\app\src\main\AndroidManifest.xml:26:13-30:29
-41                <action android:name="android.intent.action.MAIN" />
-41-->C:\Users\User\AndroidStudioProjects\WeTalkLatest\app\src\main\AndroidManifest.xml:27:17-69
-41-->C:\Users\User\AndroidStudioProjects\WeTalkLatest\app\src\main\AndroidManifest.xml:27:25-66
-42
-43                <category android:name="android.intent.category.LAUNCHER" />
-43-->C:\Users\User\AndroidStudioProjects\WeTalkLatest\app\src\main\AndroidManifest.xml:29:17-77
-43-->C:\Users\User\AndroidStudioProjects\WeTalkLatest\app\src\main\AndroidManifest.xml:29:27-74
-44            </intent-filter>
-45        </activity>
-46
-47        <meta-data
-47-->C:\Users\User\AndroidStudioProjects\WeTalkLatest\app\src\main\AndroidManifest.xml:43:9-45:57
-48            android:name="preloaded_fonts"
-48-->C:\Users\User\AndroidStudioProjects\WeTalkLatest\app\src\main\AndroidManifest.xml:44:13-43
-49            android:resource="@array/preloaded_fonts" />
-49-->C:\Users\User\AndroidStudioProjects\WeTalkLatest\app\src\main\AndroidManifest.xml:45:13-54
-50
-51        <provider
-51-->[com.squareup.picasso:picasso:2.71828] C:\Users\User\.gradle\caches\transforms-2\files-2.1\5ec8ef568aef29538e78c2fdcb41df0e\picasso-2.71828\AndroidManifest.xml:8:9-11:40
-52            android:name="com.squareup.picasso.PicassoProvider"
-52-->[com.squareup.picasso:picasso:2.71828] C:\Users\User\.gradle\caches\transforms-2\files-2.1\5ec8ef568aef29538e78c2fdcb41df0e\picasso-2.71828\AndroidManifest.xml:9:13-64
-53            android:authorities="com.balqis.wetalklatest.com.squareup.picasso"
-53-->[com.squareup.picasso:picasso:2.71828] C:\Users\User\.gradle\caches\transforms-2\files-2.1\5ec8ef568aef29538e78c2fdcb41df0e\picasso-2.71828\AndroidManifest.xml:10:13-72
-54            android:exported="false" />
-54-->[com.squareup.picasso:picasso:2.71828] C:\Users\User\.gradle\caches\transforms-2\files-2.1\5ec8ef568aef29538e78c2fdcb41df0e\picasso-2.71828\AndroidManifest.xml:11:13-37
-55    </application>
-56
-57</manifest>
+22        android:testOnly="true"
+23        android:theme="@style/Theme.WeTalkLatest" >
+23-->C:\Users\User\AndroidStudioProjects\WeTalkLatest\app\src\main\AndroidManifest.xml:18:9-50
+24        <activity android:name="com.balqis.wetalklatest.OnboardingActivity" />
+24-->C:\Users\User\AndroidStudioProjects\WeTalkLatest\app\src\main\AndroidManifest.xml:19:9-65
+24-->C:\Users\User\AndroidStudioProjects\WeTalkLatest\app\src\main\AndroidManifest.xml:19:19-53
+25        <activity android:name="com.balqis.wetalklatest.TheMainActivity" />
+25-->C:\Users\User\AndroidStudioProjects\WeTalkLatest\app\src\main\AndroidManifest.xml:20:9-53
+25-->C:\Users\User\AndroidStudioProjects\WeTalkLatest\app\src\main\AndroidManifest.xml:20:19-50
+26        <activity android:name="com.balqis.wetalklatest.FeaturePageActivity" />
+26-->C:\Users\User\AndroidStudioProjects\WeTalkLatest\app\src\main\AndroidManifest.xml:21:9-57
+26-->C:\Users\User\AndroidStudioProjects\WeTalkLatest\app\src\main\AndroidManifest.xml:21:19-54
+27        <activity android:name="com.balqis.wetalklatest.NumberActivity" />
+27-->C:\Users\User\AndroidStudioProjects\WeTalkLatest\app\src\main\AndroidManifest.xml:22:9-52
+27-->C:\Users\User\AndroidStudioProjects\WeTalkLatest\app\src\main\AndroidManifest.xml:22:19-49
+28        <activity android:name="com.balqis.wetalklatest.AlphabetActivity" />
+28-->C:\Users\User\AndroidStudioProjects\WeTalkLatest\app\src\main\AndroidManifest.xml:23:9-54
+28-->C:\Users\User\AndroidStudioProjects\WeTalkLatest\app\src\main\AndroidManifest.xml:23:19-51
+29        <activity android:name="com.balqis.wetalklatest.Save_Page" />
+29-->C:\Users\User\AndroidStudioProjects\WeTalkLatest\app\src\main\AndroidManifest.xml:24:9-47
+29-->C:\Users\User\AndroidStudioProjects\WeTalkLatest\app\src\main\AndroidManifest.xml:24:19-44
+30        <activity android:name="com.balqis.wetalklatest.SplashScreenActivity" >
+30-->C:\Users\User\AndroidStudioProjects\WeTalkLatest\app\src\main\AndroidManifest.xml:25:9-31:20
+30-->C:\Users\User\AndroidStudioProjects\WeTalkLatest\app\src\main\AndroidManifest.xml:25:19-55
+31            <intent-filter>
+31-->C:\Users\User\AndroidStudioProjects\WeTalkLatest\app\src\main\AndroidManifest.xml:26:13-30:29
+32                <action android:name="android.intent.action.MAIN" />
+32-->C:\Users\User\AndroidStudioProjects\WeTalkLatest\app\src\main\AndroidManifest.xml:27:17-69
+32-->C:\Users\User\AndroidStudioProjects\WeTalkLatest\app\src\main\AndroidManifest.xml:27:25-66
+33
+34                <category android:name="android.intent.category.LAUNCHER" />
+34-->C:\Users\User\AndroidStudioProjects\WeTalkLatest\app\src\main\AndroidManifest.xml:29:17-77
+34-->C:\Users\User\AndroidStudioProjects\WeTalkLatest\app\src\main\AndroidManifest.xml:29:27-74
+35            </intent-filter>
+36        </activity>
+37        <activity android:name="com.balqis.wetalklatest.FirstActivity" />
+37-->C:\Users\User\AndroidStudioProjects\WeTalkLatest\app\src\main\AndroidManifest.xml:32:9-51
+37-->C:\Users\User\AndroidStudioProjects\WeTalkLatest\app\src\main\AndroidManifest.xml:32:19-48
+38        <activity android:name="com.balqis.wetalklatest.StartupActivity" />
+38-->C:\Users\User\AndroidStudioProjects\WeTalkLatest\app\src\main\AndroidManifest.xml:33:9-53
+38-->C:\Users\User\AndroidStudioProjects\WeTalkLatest\app\src\main\AndroidManifest.xml:33:19-50
+39        <activity android:name="com.balqis.wetalklatest.DashboardActivity" />
+39-->C:\Users\User\AndroidStudioProjects\WeTalkLatest\app\src\main\AndroidManifest.xml:34:9-55
+39-->C:\Users\User\AndroidStudioProjects\WeTalkLatest\app\src\main\AndroidManifest.xml:34:19-52
+40        <activity android:name="com.balqis.wetalklatest.MainActivity" >
+40-->C:\Users\User\AndroidStudioProjects\WeTalkLatest\app\src\main\AndroidManifest.xml:35:9-41:20
+40-->C:\Users\User\AndroidStudioProjects\WeTalkLatest\app\src\main\AndroidManifest.xml:35:19-47
+41            <intent-filter>
+41-->C:\Users\User\AndroidStudioProjects\WeTalkLatest\app\src\main\AndroidManifest.xml:26:13-30:29
+42                <action android:name="android.intent.action.MAIN" />
+42-->C:\Users\User\AndroidStudioProjects\WeTalkLatest\app\src\main\AndroidManifest.xml:27:17-69
+42-->C:\Users\User\AndroidStudioProjects\WeTalkLatest\app\src\main\AndroidManifest.xml:27:25-66
+43
+44                <category android:name="android.intent.category.LAUNCHER" />
+44-->C:\Users\User\AndroidStudioProjects\WeTalkLatest\app\src\main\AndroidManifest.xml:29:17-77
+44-->C:\Users\User\AndroidStudioProjects\WeTalkLatest\app\src\main\AndroidManifest.xml:29:27-74
+45            </intent-filter>
+46        </activity>
+47
+48        <meta-data
+48-->C:\Users\User\AndroidStudioProjects\WeTalkLatest\app\src\main\AndroidManifest.xml:43:9-45:57
+49            android:name="preloaded_fonts"
+49-->C:\Users\User\AndroidStudioProjects\WeTalkLatest\app\src\main\AndroidManifest.xml:44:13-43
+50            android:resource="@array/preloaded_fonts" />
+50-->C:\Users\User\AndroidStudioProjects\WeTalkLatest\app\src\main\AndroidManifest.xml:45:13-54
+51
+52        <provider
+52-->[com.squareup.picasso:picasso:2.71828] C:\Users\User\.gradle\caches\transforms-2\files-2.1\5ec8ef568aef29538e78c2fdcb41df0e\picasso-2.71828\AndroidManifest.xml:8:9-11:40
+53            android:name="com.squareup.picasso.PicassoProvider"
+53-->[com.squareup.picasso:picasso:2.71828] C:\Users\User\.gradle\caches\transforms-2\files-2.1\5ec8ef568aef29538e78c2fdcb41df0e\picasso-2.71828\AndroidManifest.xml:9:13-64
+54            android:authorities="com.balqis.wetalklatest.com.squareup.picasso"
+54-->[com.squareup.picasso:picasso:2.71828] C:\Users\User\.gradle\caches\transforms-2\files-2.1\5ec8ef568aef29538e78c2fdcb41df0e\picasso-2.71828\AndroidManifest.xml:10:13-72
+55            android:exported="false" />
+55-->[com.squareup.picasso:picasso:2.71828] C:\Users\User\.gradle\caches\transforms-2\files-2.1\5ec8ef568aef29538e78c2fdcb41df0e\picasso-2.71828\AndroidManifest.xml:11:13-37
+56    </application>
+57
+58</manifest>

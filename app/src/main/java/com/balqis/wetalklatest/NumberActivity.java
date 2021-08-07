@@ -88,12 +88,7 @@ public class NumberActivity extends AppCompatActivity {
         itemList.add(new ImageItem("44",R.drawable.frame_044));
         itemList.add(new ImageItem("45",R.drawable.frame_045));
         itemList.add(new ImageItem("46",R.drawable.frame_046));
-        itemList.add(new ImageItem("47",R.drawable.frame_047));
-        itemList.add(new ImageItem("48",R.drawable.frame_048));
-        itemList.add(new ImageItem("49",R.drawable.frame_049));
-        itemList.add(new ImageItem("50",R.drawable.frame_050));
-        itemList.add(new ImageItem("51",R.drawable.frame_051));
-        itemList.add(new ImageItem("52",R.drawable.frame_052));
+
 
 
 

@@ -4,18 +4,22 @@ com/balqis/wetalklatest/SplashScreenActivity.java
 com/balqis/wetalklatest/MainActivity.java
  com.balqis.wetalklatest.MainActivity
  com.balqis.wetalklatest.MainActivity$1
-com/balqis/wetalklatest/NumberActivity.java
- com.balqis.wetalklatest.NumberActivity
- com.balqis.wetalklatest.NumberActivity$1
- com.balqis.wetalklatest.NumberActivity$2
+com/balqis/wetalklatest/FeaturePageActivity.java
+ com.balqis.wetalklatest.FeaturePageActivity
+ com.balqis.wetalklatest.FeaturePageActivity$1
+ com.balqis.wetalklatest.FeaturePageActivity$2
 com/balqis/wetalklatest/ImageItem.java
  com.balqis.wetalklatest.ImageItem
 com/balqis/wetalklatest/AlphabetActivity.java
  com.balqis.wetalklatest.AlphabetActivity
  com.balqis.wetalklatest.AlphabetActivity$1
  com.balqis.wetalklatest.AlphabetActivity$2
-com/balqis/wetalklatest/FirstActivity.java
- com.balqis.wetalklatest.FirstActivity
+com/balqis/wetalklatest/StartupActivity.java
+ com.balqis.wetalklatest.StartupActivity
+ com.balqis.wetalklatest.StartupActivity$1
+ com.balqis.wetalklatest.StartupActivity$2
+ com.balqis.wetalklatest.StartupActivity$3
+ com.balqis.wetalklatest.StartupActivity$4
 com/balqis/wetalklatest/SavePageAdapter.java
  com.balqis.wetalklatest.SavePageAdapter
  com.balqis.wetalklatest.SavePageAdapter$1
@@ -64,13 +68,9 @@ com/balqis/wetalklatest/homepage_fragment.java
 com/balqis/wetalklatest/Save_Page.java
  com.balqis.wetalklatest.Save_Page
  com.balqis.wetalklatest.Save_Page$1
-com/balqis/wetalklatest/StartupActivity.java
- com.balqis.wetalklatest.StartupActivity
- com.balqis.wetalklatest.StartupActivity$1
- com.balqis.wetalklatest.StartupActivity$2
- com.balqis.wetalklatest.StartupActivity$3
- com.balqis.wetalklatest.StartupActivity$4
-com/balqis/wetalklatest/FeaturePageActivity.java
- com.balqis.wetalklatest.FeaturePageActivity
- com.balqis.wetalklatest.FeaturePageActivity$1
- com.balqis.wetalklatest.FeaturePageActivity$2
+com/balqis/wetalklatest/NumberActivity.java
+ com.balqis.wetalklatest.NumberActivity
+ com.balqis.wetalklatest.NumberActivity$1
+ com.balqis.wetalklatest.NumberActivity$2
+com/balqis/wetalklatest/FirstActivity.java
+ com.balqis.wetalklatest.FirstActivity
